@@ -49,7 +49,7 @@ Here are a few projects showcasing my skills:
 - 📦 State management (Zustand)
 - 💁🏻 User Authentication (JWT)
 - 🖌️ DaisyUI + TailwindCSS
-- **[Course Management System ]((https://course-management-system-tan.vercel.app/))**: Made as part of my Internship over at NETSOL, following a requirements sheet. I used ReactJs, Ant Design, Redux RTK, Json-server (could've used java springboot for the backend)
+- **[Course Management System ](https://course-management-system-tan.vercel.app/)**: Made as part of my Internship over at NETSOL, following a requirements sheet. I used ReactJs, Ant Design, Redux RTK, Json-server (could've used java springboot for the backend)
 - **[Workout Tracking MERN stack app]([link-to-project](https://workout-pal-mern.vercel.app/))**: Made using MERN stack, it allows to add basic workouts for reps with the weights, they get displayed in a nice list.
 
 ## 🌱 Currently Learning
