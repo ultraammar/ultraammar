@@ -13,7 +13,7 @@ Welcome to my GitHub repository! I'm Ammar, a recent IT graduate with a passion 
 - **Version Control**: Git
 
 ### Back-End
-- **Languages & Frameworks**: NextJS, NodeJS, Java Springboot
+- **Languages & Frameworks**: NextJS, NodeJS, Java Springboot, C# .NET, PHP
 - **Databases**: PostgreSQL, MongoDB, MySQL, Microsoft SQL Server
 - **API Development**: CRUD Operations
 
@@ -44,13 +44,30 @@ emails
 
 Here are a few projects showcasing my skills:
 
-- **[Note-Taking App]([link-to-project](https://ammarvelous-notes.vercel.app/))**: Ammarvelous-notes  using MERN stack, with JWT authentication for users, and using state management library (Zustand). Anyone can make notes here.
-- 🕶️ Glassmorphism theme
-- 📦 State management (Zustand)
-- 💁🏻 User Authentication (JWT)
-- 🖌️ DaisyUI + TailwindCSS
-- **[Course Management System ](https://course-management-system-tan.vercel.app/)**: Made as part of my Internship over at NETSOL, following a requirements sheet. I used ReactJs, Ant Design, Redux RTK, Json-server (could've used java springboot for the backend)
-- **[Workout Tracking MERN stack app]([link-to-project](https://workout-pal-mern.vercel.app/))**: Made using MERN stack, it allows to add basic workouts for reps with the weights, they get displayed in a nice list.
+### 📝 Note-Taking App
+[**Live Demo**](https://ammarvelous-notes.vercel.app/)
+- **Description**: A note-taking application built using the MERN stack.
+- **Features**:
+  - 🕶️ Glassmorphism theme
+  - 📦 State management with Zustand
+  - 💁🏻 User Authentication with JWT
+  - 🖌️ Styled with DaisyUI + TailwindCSS
+
+### 🗂️ Course Management System
+[**Live Demo**](https://course-management-system-tan.vercel.app/)
+- **Description**: Developed during my internship at NETSOL, this system manages course information and user interactions.
+- **Features**:
+  - 📚 Built with ReactJs and Ant Design
+  - 🔧 State management using Redux RTK
+  - 📦 Data management with Json-server (could have used Java Springboot for the backend)
+
+### 💪 Workout Tracking App
+[**Live Demo**](https://workout-pal-mern.vercel.app/)
+- **Description**: A MERN stack application designed for tracking workouts, including reps and weights.
+- **Features**:
+  - 🏋️‍♂️ Track and display workouts
+  - 📋 Clean and user-friendly interface
+
 
 ## 🌱 Currently Learning
 
@@ -63,6 +80,4 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ultraamma
 Thank you for visiting my repository!
 
 ---
-
-**Note**: Replace placeholders like `[Project Name 1](link-to-project)`, `your-linkedin-profile`, and `your-email@example.com` with actual project names, links, and your contact information.
 
