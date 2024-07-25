@@ -22,6 +22,7 @@ Welcome to my GitHub repository! I'm Ammar, a recent IT graduate with a passion 
 ### NETSOL Technologies Pakistan
 **Summer Intern**  
 *June 2024 - July 2024*  
+<span style="float: right;">June 2024 - July 2024</span>  
 - Did the ”New Joiners Bootcamp”, where workplace ethics were taught.
 - Attended through ICAN Domain Training Session, where they taught about the products that NETSOL are working on, the technologies they used, and fundamental concepts
 - Gained experience by working on technologies like ReactJs and its popular libraries and Java, with Postgresql for the backend, albeit the department I was assigned to also had other technologies available for learning purposes.
