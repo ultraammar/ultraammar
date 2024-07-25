@@ -1,6 +1,6 @@
 # Ammar's Full Stack Development Portfolio
 
-Welcome to my GitHub repository! I'm Ammar, a recent IT graduate with a passion for Full Stack Development. This repository showcases my work and projects developed during my studies, outside it and internship experiences. 
+Welcome to my GitHub repository! I'm Ammar, a fresh IT'24 graduate with a passion for Full Stack Development. This repository showcases my work and projects developed during my studies, outside it and internship experiences. 
 
 ## 🛠️ Skills & Technologies
 
