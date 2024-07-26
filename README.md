@@ -5,7 +5,7 @@ Welcome to my GitHub repository! I'm Ammar, a fresh IT'24 graduate with a passio
 ## 🛠️ Skills & Technologies
 
 ### Front-End
-- **Languages & Frameworks**: HTML, CSS, JavaScript
+- **Languages & Frameworks**: HTML, CSS, JavaScript .NET, NextJS
 - **Libraries & Tools**: ReactJs, Bootstrap, SASS, TailwindCSS, DaisyUI, Ant Design, DaisyUI
 - **State Management**: Redux, Redux Toolkit, Zustand
 - **Form Handling**: Formik, Yup
