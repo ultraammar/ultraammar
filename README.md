@@ -254,7 +254,5 @@ Thank you for visiting my repository!
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ultraammar&repo=ammarvelous-notes&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892&theme=tokyonight)](https://github.com/ultraammar/ammarvelous-notes)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ultraammar&repo=Course-Management-System&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892&theme=tokyonight)](https://github.com/ultraammar/Course-Management-System)
-
-
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ultraammar&repo=workout-pal-MERN&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892&theme=tokyonight)](https://github.com/ultraammar/workout-pal-MERN)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ultraammar&repo=employee_mgmt_react_CRUD&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892&theme=tokyonight)](https://github.com/ultraammar/employee_mgmt_react_CRUD)
