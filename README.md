@@ -248,26 +248,3 @@ Thank you for visiting my repository!
 
 ---
 
-<!-- Featured Repositories -->
-#### Featured Repos
-
-<p align="center">
-<a href="https://github.com/ultraammar/Course-Management-System ">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=ultraammar&repo=Course-Management-System&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
-</a>
-<span>&nbsp;</span>
-<a href="https://github.com/ultraammar/ammarvelous-notes">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=ultraammar&repo=ammarvelous-notes&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
-</a>
-</p>
-
-<p align="center">
-<a href="https://github.com/ultraammar/workout-pal-MERN">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=ultraammar&repo=workout-pal-MERN&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
-</a>
-<span>&nbsp;</span>
-<a href="https://github.com/ultraammar/employee_mgmt_react_CRUD">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=ultraammar&repo=employee_mgmt_react_CRUD&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
-</a>
-</p>
-
