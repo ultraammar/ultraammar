@@ -179,8 +179,8 @@ I'm Ammar, a fresh IT'24 graduate with a passion for Full Stack Development. Thi
 </table>
 
 <div style="display: flex; justify-content: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=ultraammar&show_icons=true&theme=dark&show=discussions_started" alt="Ammar Waheed's GitHub stats" style="max-width: 100%;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ultraammar&layout=donut&show_icons=true&theme=dark&exclude_repo=Juuta-CMS-E-commerce,laravel-portal" alt="Top Langs" style="max-width: 100%;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ultraammar&show_icons=true&theme=dark&show=discussions_started&bg_color=0,000000,0f4013" alt="Ammar Waheed's GitHub stats" style="max-width: 100%;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ultraammar&layout=donut&show_icons=true&theme=dark&exclude_repo=Juuta-CMS-E-commerce,laravel-portal&bg_color=0,000000,400f24" alt="Top Langs" style="max-width: 100%;" />
 </div>
 
 
