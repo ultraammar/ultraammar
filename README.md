@@ -18,6 +18,10 @@ I'm Ammar, a fresh IT'24 graduate with a passion for Full Stack Development. Thi
   <a href="https://www.linkedin.com/in/ultraammar">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <a href="https://ultraammar.github.io/media/Ammar_Waheed_CV.pdf">
+    <img src="https://img.shields.io/badge/Resume-red?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Resume Badge"/>
+  </a>
+
 </div>
 
 ---
