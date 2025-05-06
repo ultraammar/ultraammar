@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ammar Waheed. Welcome to my portfolio!</h1>
 
-I'm Ammar, a fresh IT'24 graduate with a passion for Full Stack Development. This repository showcases my work and projects developed during my studies, outside it and internship experiences. 
+Hi, glad to see you here! I am Ammar, a ServiceNow developer with 2+ years of experience. I have command over the modules of HRSD, ITSM, ITOM, IRM, Service Portal, Platform Analytics. With a couple of Micro-Certifications of ServiceNow on my belt, and having had experience in working on integrations of Slack, Jira, or Teams with ServiceNow. I am ready to take on what ServiceNow has in store for me.
 
 ---
 
@@ -17,9 +17,6 @@ I'm Ammar, a fresh IT'24 graduate with a passion for Full Stack Development. Thi
   </a>
   <a href="https://www.linkedin.com/in/ultraammar">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://ultraammar.github.io/media/Ammar_Waheed_CV.pdf">
-    <img src="https://img.shields.io/badge/Resume-red?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Resume Badge"/>
   </a>
 
 </div>
