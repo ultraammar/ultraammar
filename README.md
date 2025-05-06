@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ammar Waheed. Welcome to my portfolio!</h1>
 
-Hi, glad to see you here! I am Ammar, a ServiceNow developer with 2+ years of experience. I have command over the modules of HRSD, ITSM, ITOM, IRM, Service Portal, Platform Analytics. With a couple of Micro-Certifications of ServiceNow on my belt, and having had experience in working on integrations of Slack, Jira, or Teams with ServiceNow. I am ready to take on what ServiceNow has in store for me.
+Hi, glad to see you here! I am Ammar, a ServiceNow developer with 2+ years of experience. I have command over the modules of HRSD, ITSM, ITOM, CMDB, IRM, Service Portal, Platform Analytics. With a couple of Micro-Certifications of ServiceNow on my belt, and having had experience in working on integrations of Slack, Jira, or Teams with ServiceNow. I am ready to take on what ServiceNow has in store for me.
 
 ---
 
