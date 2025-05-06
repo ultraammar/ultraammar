@@ -188,29 +188,6 @@ I'm Ammar, a fresh IT'24 graduate with a passion for Full Stack Development. Thi
 </div>
 
 
-## 🏆 Experience
-
-### NETSOL Technologies Pakistan
-**Summer Intern**  
-*June 2024 - July 2024*   
-- Did the ”New Joiners Bootcamp”, where workplace ethics were taught.
-- Attended through ICAN Domain Training Session, where they taught about the products that NETSOL are working on, the technologies they used, and fundamental concepts
-- Gained experience by working on technologies like ReactJs and its popular libraries and Java, with Postgresql for the backend, albeit the department I was assigned to also had other technologies available for learning purposes.
-- Followed a roadmap for the front-end which entailed learning and working on HTML, CSS, JavaScript, SASS, Bootstrap, TailwindCSS, DaisyUI, Ant Design, Formik, Yup, Git, Redux, Redux Toolkit, Axios.
-- Followed a roadmap for the back-end which entailed learning and working on Java Springboot and making APIs for CRUD in it. I also have made APIs using NodeJS 
-
-
-### Al Mujaddid Ltd
-**Web Developer & Graphic Designer**  
-*June 2023 - July 2024*  
-- Worked on WordPress development and graphic designing for the company.
-- Handled, and maintained their 2 WordPress websites.
-- out of them, 1 of their website was based in Lahore, and the other which they outsource their operations to in UK
-- Also created, maintained, and did CRUD Operations on their Business Intelligence scheduling system made in
-PHP, MySQL, deployed on their outsourced company website.
-- Automated some of their processes, such as the meeting selection update notification using PHP mailer on their
-emails
-
 ## 📂 Projects
 
 Here are a few projects showcasing my skills:
